@@ -1,0 +1,5 @@
+DoctorID,DoctorName,Specialization,ExperienceYears,Gender
+D101,Dr. Mehta,Cardiologist,15,M
+D102,Dr. Sharma,Neurologist,10,F
+D103,Dr. Patil,Orthopedic,8,M
+D104,Dr. Reddy,Pediatrician,12,F

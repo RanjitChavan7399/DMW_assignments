@@ -1,0 +1,5 @@
+HospitalID,HospitalName,City,Type,Capacity
+H301,Apollo Hospitals,Mumbai,Multi-special,500
+H302,Fortis Healthcare,Delhi,Multi-special,350
+H303,Ruby Hall Clinic,Pune,General,200
+H304,Manipal Hospitals,Bangalore,Multi-special,400
